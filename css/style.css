@@ -2,3 +2,18 @@ body{
     background-color: aquamarine;
 
 }
+
+.cool{
+        width: 100px;
+        height: 100px;
+        background-color: rgb(24, 132, 233);
+        transition: 1s;
+
+
+}
+
+.cool.red{
+            background-color: red;
+
+}
+
